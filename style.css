@@ -60,7 +60,6 @@ h2 {
 .boxImg img {
   width: 400px;
   align-items: center;
-  flex-wrap: wrap;
 }
 
 .boxTexto {
