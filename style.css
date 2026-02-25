@@ -53,6 +53,7 @@ h2 {
   border-radius: 20px;
   justify-content: space-around;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 .boxImg img {
