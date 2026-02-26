@@ -79,3 +79,9 @@ h2 {
   cursor: pointer;
   font-size: 16px;
 }
+
+.btn:hover {
+  background-color: #ffae00;
+  cursor: pointer;
+  font-weight: bolder;
+}
